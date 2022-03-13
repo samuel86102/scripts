@@ -1,0 +1,2 @@
+#/bin/sh
+~/.screenlayout/dual-home.sh && nitrogen --restore 
