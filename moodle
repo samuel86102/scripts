@@ -1,2 +1,2 @@
-#1/bin/sh
+#!/bin/sh
 brave https://moodle3.ntnu.edu.tw/ &
