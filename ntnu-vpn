@@ -1,0 +1,2 @@
+#!/bin/sh
+f5fpc -s -t https://vpn.ntnu.edu.tw -u 61047019s

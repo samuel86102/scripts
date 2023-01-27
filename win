@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/samuel/vm &&
+quickemu --vm /home/samuel/vm/windows-10.conf --display spice
